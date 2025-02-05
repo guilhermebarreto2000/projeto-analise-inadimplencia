@@ -103,14 +103,10 @@ print(outliers)
 
 
 #Visualização de informações sobre a idade
-
 idade_min = dados['idade'].min()
 idade_max = dados['idade'].max()
-
 categorias = ['Idade Miníma', 'Idade Máxima']
 valores = [idade_min, idade_max]
-
-
 plt.bar(categorias, valores, color=['blue', 'green'])
 plt.xlabel('Categoria')
 plt.ylabel('Idade')
@@ -119,14 +115,10 @@ plt.show()
 
 
 #Visualização de informações sobre a renda
-
 renda_min = dados['renda_mensal'].min()
 renda_max = dados['renda_mensal'].max()
-
 categorias = ['Renda Miníma', 'Renda Máxima']
 valores = [renda_min, renda_max]
-
-
 plt.bar(categorias, valores, color=['blue', 'green'])
 plt.xlabel('Categoria')
 plt.ylabel('Renda')
@@ -135,14 +127,10 @@ plt.show()
 
 
 #Visualização de informações sobre o tempo de emprego
-
 tempo_min = dados['tempo_emprego'].min()
 tempo_max = dados['tempo_emprego'].max()
-
 categorias = ['Tempo de Emprego Minímo', 'Tempo de Emprego Máximo']
 valores = [tempo_min, tempo_max]
-
-
 plt.bar(categorias, valores, color=['blue', 'green'])
 plt.xlabel('Categoria')
 plt.ylabel('Tempo')
@@ -151,14 +139,10 @@ plt.show()
 
 
 #Visualização de informações sobre os valores do empréstimo
-
 emprestimo_min = dados['valor_emprestimo'].min()
 emprestimo_max = dados['valor_emprestimo'].max()
-
 categorias = ['Empréstimo Minímo', 'Empréstimo Máximo']
 valores = [emprestimo_min, emprestimo_max]
-
-
 plt.bar(categorias, valores, color=['blue', 'green'])
 plt.xlabel('Categoria')
 plt.ylabel('Empréstimo')
@@ -169,14 +153,10 @@ plt.show()
 
 
 #Visualização de informações sobre as parcelas mensais
-
 parcela_min = dados['parcelas_mensais'].min()
 parcela_max = dados['parcelas_mensais'].max()
-
 categorias = ['Parcela Miníma', 'Parcela Máxima']
 valores = [parcela_min, parcela_max]
-
-
 plt.bar(categorias, valores, color=['blue', 'green'])
 plt.xlabel('Categoria')
 plt.ylabel('Parcela')
@@ -185,14 +165,10 @@ plt.show()
 
 
 #Visualização de informações sobre o score de crédito
-
 score_min = dados['score_credito'].min()
 score_max = dados['score_credito'].max()
-
 categorias = ['Score Minímo', 'Score Máximo']
 valores = [score_min, score_max]
-
-
 plt.bar(categorias, valores, color=['blue', 'green'])
 plt.xlabel('Categoria')
 plt.ylabel('Score')
@@ -243,7 +219,6 @@ classifier.fit(X_train, y_train)
 
 #Adiciona os valores de idade, renda_mensal, tempo_emprego, dentre outros, no espaço abaixo
 print(classifier.predict([[]]))
-
 
 y_pred = classifier.predict(x_test)
 
