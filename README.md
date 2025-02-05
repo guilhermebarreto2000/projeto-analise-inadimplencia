@@ -23,13 +23,13 @@
 Idade \
 ![Image](https://github.com/user-attachments/assets/e48110f5-3948-4304-9727-f37dfba6c9d6)  \
 Renda Mensal  \
-![Image](https://github.com/user-attachments/assets/f33dcc40-ca09-458c-929d-06656bcc602c)
+![Image](https://github.com/user-attachments/assets/f33dcc40-ca09-458c-929d-06656bcc602c)  \
 Tempo de emprego  \
-![Image](https://github.com/user-attachments/assets/1df009ba-f9aa-4a57-9c9d-66eba4f85b02)
+![Image](https://github.com/user-attachments/assets/1df009ba-f9aa-4a57-9c9d-66eba4f85b02)  \
 Valor de empréstimo  \
-![Image](https://github.com/user-attachments/assets/af8959a8-3054-44a0-8504-633cb7bdf3f4)
+![Image](https://github.com/user-attachments/assets/af8959a8-3054-44a0-8504-633cb7bdf3f4)  \
 Parcelas mensais  \
-![Image](https://github.com/user-attachments/assets/cd275c99-2c25-4297-a263-46d1559c8bfd)
+![Image](https://github.com/user-attachments/assets/cd275c99-2c25-4297-a263-46d1559c8bfd)  \
 Score de crédito  \
 ![var_score](https://github.com/user-attachments/assets/7d77b63b-c33d-42cb-a782-11c64d14793d)
 
