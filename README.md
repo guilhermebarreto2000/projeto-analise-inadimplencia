@@ -31,7 +31,7 @@ Score de crédito  \
 
 
 # Problema e objetivo:
- O problema analisado ao longo do projeto é a quantidade de clientes que estão inadimplentes, prejudicando assim a empresa do setor financeiro que foi avaliada. Dessa forma, vê-se necessário analisar por meio do Machine Learning averiguar se outros clientes se tornarão inadimplentes ou não, levando em conta as variáveis: idade, renda, tempo de emprego, valor do empréstimo, parcelas mensais e score de 1.029 clientes. Sendo assim, ao verificar quais são os clientes que podem também se tornar inadimplentes, a empresa poderá tomar as ações cabíveis para evitar que isso aconteça.
+ O problema analisado ao longo do projeto é a necessidade de se verificar a chance de outros clientes se tornarem inadimplentes, prejudicando assim a empresa do setor financeiro que foi avaliada. Dessa forma, vê-se necessário,por meio do Machine Learning, averiguar se outros clientes se tornarão inadimplentes ou não, levando em conta as variáveis: idade, renda, tempo de emprego, valor do empréstimo, parcelas mensais e score de 1.029 clientes. Sendo assim, ao verificar quais são os clientes que podem também se tornar inadimplentes, a empresa poderá tomar as ações cabíveis para evitar que isso aconteça.
  
 
 
